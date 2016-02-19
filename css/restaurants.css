@@ -1,0 +1,83 @@
+header {
+	background-image: url("../img/bayfood1.jpg");
+	color: #FFFFFF;
+	text-shadow: 2px 2px 8px #3b3b44;
+	padding-bottom: 8%;
+}
+
+h1.header_text {
+	font-size: 160%;
+}
+
+#restaurants .container .row {
+	border-bottom: 1px dashed #f1f1f1;
+}
+
+.restpic {
+	display: block;
+	width: 100%;
+	border-radius: 3px;
+	height: 10em;
+	vertical-align: center;
+	text-align: center;
+}
+
+.restlink {
+	font-size: 1.6rem;
+	padding: 0rem 2rem 0rem 2rem;
+	text-decoration: none;
+}
+
+.resttext {
+	padding: 1em 2em 1em 2em;
+	font-size: 0.8em !important;
+	color: #000000;
+	vertical-align: center;
+}
+
+.restbox {
+	display: block;
+	height: 100%;
+}
+
+.links {
+	background-color: #C5C5C5;
+	text-align: center;
+}
+
+p {
+	margin: 1rem;
+}
+
+@media only screen and (max-width: 992px ) {
+	#restaurants .rest-div .restpic{
+		height: 10em;
+		width: 100%;
+		margin: 0 auto;
+	}
+	.resttext{
+		font-size: 10px;
+	}
+}
+
+@media only screen and (max-width: 768px ) {
+	#restaurants h3 {
+		text-align: center;
+	}
+
+	#restaurants .rest-div .restpic{
+		height: 20em;
+		width: 80%;
+		margin: 0 auto;
+	}
+}
+
+@media only screen and (min-width: 460px) {
+	h2.header_text{
+		font-size: 360%;
+	}
+
+	h1.header_text{
+		font-size: 250%;
+	}	
+}

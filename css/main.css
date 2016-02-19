@@ -1,0 +1,34 @@
+header {
+	text-align: center;
+	padding-top: 2em;
+	background-attachment: scroll;
+	background-repeat: none;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	background-position:center; /* IE fix */
+}
+
+body {
+	font-family: 'Work Sans', sans-serif;
+}
+
+a {
+	text-decoration: none;
+}
+
+
+a:hover, a:focus,
+a:active, a.active {
+    color: #93d0f2;
+}
+
+#photo-gallary-sec {
+	border: 1px solid black;
+	padding-bottom: 10em;
+}
+
+#mycontent {
+	border: 1px solid black;
+}

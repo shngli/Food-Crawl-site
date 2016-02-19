@@ -1,0 +1,112 @@
+nav {
+	border-color: #383836;
+	padding-top: 0.7em;
+	padding-bottom: 0.7em;
+	opacity: 0.95;
+}
+
+.page-scroll:hover {
+	color: #ee8600;
+}
+
+.log-div{
+	float: left;
+}
+
+#logo-text {
+	text-align: left;
+	vertical-align: center;
+	font-family: 'Arizonia', cursive;
+	margin-left: 1em;
+	font-size: 2em;
+	letter-spacing: 3px;
+}
+
+.navbar {
+	margin-bottom: 0px;!important;
+	border-radius: 0px;
+}
+
+#logo-img {
+	width: 4.8em;
+	height: 4.6em;
+	margin-top: -1.8em;
+	margin-left: -4%;
+	position: absolute;
+}
+
+.current {
+	background-color:  #3399ff;
+	border-radius: 3px;
+}
+
+.navbar-inverse .navbar-brand:hover,
+.navbar-inverse .navbar-brand:focus,
+.navbar-inverse .navbar-brand:active,
+.navbar-inverse .navbar-brand.active {
+	color: #3399ff;
+}
+
+.navbar-inverse .navbar-nav>a {
+	border-radius: 3px;
+}
+
+.navbar-inverse .navbar-collapse {
+    border-color: rgba(255,255,255,.02);
+}
+
+.navbar-inverse .navbar-toggle {
+    border-color: #3399ff;
+    background-color: #3399ff;
+}
+
+.navbar-inverse .navbar-toggle .icon-bar {
+    background-color: #ffffff;
+}
+
+.navbar-inverse .navbar-toggle:hover,
+.navbar-inverse .navbar-toggle:focus {
+	background-color: #3399ff;
+}
+
+.navbar-inverse .nav li a {
+	text-transform: uppercase;
+    font-weight: 400;
+    font-size: 0.9em;
+    letter-spacing: 1px;
+    color: #ffffff;
+}
+
+.navbar-inverse .nav li a:hover,
+.navbar-inverse .nav li a:focus {
+    outline: 0;
+    color: #3399ff;
+}
+
+#logo-img:hover,
+#logo-img:focus {
+	color: #595959;
+}
+
+/*Footer CSS*/
+.footer-above {
+	background-color: #333333;
+	padding-top: 1.8em;
+	padding-bottom: 1.8em;
+	text-align: center;
+	vertical-align: center;
+}
+
+.footer-below {
+	background-color:#1a1a1a; 
+	color: #808080;
+	vertical-align: center;
+	padding-top: 2em;
+	padding-bottom: 2em;
+}
+
+@media only screen and (max-width: 990px ) {
+	#logo-text{
+		display: none;
+	}
+}

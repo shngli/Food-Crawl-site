@@ -1,0 +1,125 @@
+@charset "UTF-8";
+/* CSS Document */
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+    width: 100%;
+    margin: auto;
+}
+
+.carousel {
+    position: relative;
+    margin-bottom: 18px;
+    line-height: 1;
+}
+
+.carousel-inner {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+}
+  
+.carousel-control {
+    position: absolute;
+    top: 40%;
+    left: 28px;
+    right: 28px;
+    width: 45px;
+    height: 45px;
+    margin-top: -20px;
+    padding-top: -20px;
+    padding-bottom: 20px;
+    font-size: 55px;
+    font-weight: 100;
+    line-height: 30px;
+    color: #ffffff;
+    text-align: center;
+    vertical-align: center;
+    background: #222222;
+    border: 3px solid #ffffff;
+    -webkit-border-radius: 23px;
+    -moz-border-radius: 23px;
+    border-radius: 23px;
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+}
+
+.carousel-control.right {
+    right:30px;
+}
+
+.carousel-caption {
+    top:30%;
+    left:8%;
+    text-align: left;
+    padding-right: 30%;
+}
+
+#aa{
+  vertical-align: center;
+  padding-top: 0;
+}
+
+#photo-gallary-sec {
+	border: 0px;
+	padding-bottom: .5em;!important
+}
+
+
+.col-md-4 {
+	padding-left:3%;
+	padding-right:3%;
+	padding-bottom: 3em;
+}
+
+
+#mycontent {
+	border: 0px;
+	padding-bottom: 5em;!important
+}
+
+.aEvent {
+    margin-bottom: 10px;
+}
+
+.aEventDate {
+    display: inline-block;
+    width: 15%;
+    float:left;
+    text-align: center;
+}
+
+.aEventContent {
+    display: inline-block;
+    margin-left: 10px;
+    width:80%;
+}
+
+.aEventDate p{
+    margin-bottom: 0px;
+    font-family: bold;
+    font-size: 20px;
+}
+
+.aEventContent p{
+    margin-bottom: 0px;
+}
+
+@media only screen and (max-width: 990px) {
+    .aEvent{
+        margin-bottom: 40px;
+    }
+}
+
+h1 {
+    padding-top: 0;
+    margin-top: 0;
+}
+
+#signup-div {
+    margin-bottom: .5em;
+    padding-bottom: 0;
+}
+
+#signup-link {
+    margin: 0em 0em .5em 0em;
+}

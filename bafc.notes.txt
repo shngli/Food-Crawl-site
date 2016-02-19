@@ -1,0 +1,11 @@
+
+Stylistic changes:
+
+1) about.php
+- How to shift everything to the middle? Change about me part?
+- insert section header image bayfood3.jpg
+
+Reference:
+https://dinnerlab.com/login/
+
+
