@@ -1,5 +1,5 @@
 header {
-	background-image: url("../img/bayfood4.jpg");
+	background-image: url("../img/bayfood5.jpg");
 	color: #FFFFFF;
 	text-shadow: 2px 2px 8px #3b3b44;
 	padding-bottom: 8%;
@@ -7,10 +7,6 @@ header {
 
 h1.header_text {
 	font-size: 160%;
-}
-
-.my-check-box {
-	font-style: italic;
 }
 
 .social-signup-btn {

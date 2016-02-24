@@ -28,3 +28,14 @@ h1.header_text {
 #message {
 	height: 16em;
 }
+
+.inner {
+	width: 70%;
+	margin: 40px auto 80px auto; 
+}
+
+.tab {
+  float: left;
+  padding: 0 25px;
+  width: 50%; 
+}

@@ -1,0 +1,14 @@
+.inner {
+  width: 70%;
+  margin: 40px auto 80px auto; 
+}
+
+.main ol {
+  margin: 0;
+  padding: 0; 
+}
+
+.main ol li {
+  padding: 0 0 20px 0;
+  margin: 0 0 0 20px; 
+}
