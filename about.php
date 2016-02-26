@@ -27,33 +27,33 @@
 			<p>Ever want to try Thai, Peruvian, and Gastropub food in the same night? Give the food lover inside you a delightful year of culinary possibilities. There are many awesome restaurants and pubs in Bay Area, and we aim to inspire people to embark on a journey together and to discover all the culinary wonders that the Bay has to offer.</p>
 
 			<div class="row">
-				<div class="col-sm-4 rest-div">
+				<div class="col-sm-4">
 					<!--Pictures-->
 					<img class="restpic img-responsive" src="img/how.png"/>
 				</div>
-				<div class="col-sm-8 rest-text-div">
+				<div class="col-sm-8">
 					<!--Descriptions-->
 					<h3>Join Bay Area Food Crawl</h3>Signing up for membership is just the beginning.
 				</div>
 			</div>
 
 			<div class="row">
-				<div class="col-sm-4 rest-div">
+				<div class="col-sm-4">
 					<!--Pictures-->
 					<img class="restpic img-responsive" src="img/mail.png"/>
 				</div>
-				<div class="col-sm-8 rest-text-div">
+				<div class="col-sm-8">
 					<!--Descriptions-->
 					<h3>Get Notified</h3>We will email you the exciting details when a food crawling event is scheduled.
 				</div>
 			</div>
 
 			<div class="row">
-				<div class="col-sm-4 rest-div">
+				<div class="col-sm-4">
 					<!--Pictures-->
 					<img class="restpic img-responsive" src="img/event.png"/>
 				</div>
-				<div class="col-sm-8 rest-text-div">
+				<div class="col-sm-8">
 					<!--Descriptions-->
 					<h3>Event day</h3>You are on the list! Take a seat. Grab a drink. Enjoy your unique company.
 				</div>
