@@ -9,10 +9,10 @@ A Food Crawl is a self-guided tasting experience of restaurants in and surroundi
 ![2restaurant.png](https://github.com/shngli/Food-Crawl-site/blob/master/screenshots/2restaurant.png)
 
 ### Featured Events
-![3events.png](https://github.com/shngli/Food-Crawl-site/blob/master/screenshots/3events.png)
+![3event.png](https://github.com/shngli/Food-Crawl-site/blob/master/screenshots/3event.png)
 
 ### About Us
-![4about.png](https://github.com/shngli/Food-Crawl-site/blob/master/screenshots/4about.png)
+![4aboutus.png](https://github.com/shngli/Food-Crawl-site/blob/master/screenshots/4aboutus.png)
 
 ### Sign Up Page
 ![5signup.png](https://github.com/shngli/Food-Crawl-site/blob/master/screenshots/5signup.png)
