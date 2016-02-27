@@ -1,6 +1,6 @@
 # Bay Area Food Crawl web development
 
-A Food Crawl is a self-guided tasting experience of restaurants in and surrounding a particular neighborhood. Bay Area Food Crawl is a place for food lovers to try new cuisines around the Bay together and to give feedback. There are many awesome restaurants and bars in Bay Area, and we aim to inspire people to embark on a journey together and to discover all the culinary wonders that the Bay has to offer. Explore this site to discover this week's featured Bay Area restaurants and food events, or sign up to be a member of our community.
+A Food Crawl is a self-guided tasting experience of restaurants in and surrounding a particular neighborhood. Bay Area Food Crawl is a place for food lovers to try new cuisines around the Bay together and to give feedback. There are many awesome restaurants and bars in Bay Area, and we aim to inspire people to embark on a journey together and to discover all the culinary wonders that the Bay has to offer. Explore this site to discover this week's featured Bay Area restaurants and food events, or sign up to be a member of our community. **Note**: Website is optimized in Google Chrome.
 
 ### Homepage
 ![1homepage.png](https://github.com/shngli/Food-Crawl-site/blob/master/screenshots/1homepage.png)
